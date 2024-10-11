@@ -1,5 +1,5 @@
 # Random Pokémon Team Generator
->**[Test the program now with just one click](https://mmejiasgithub.github.io/Random-Pokemon-Team-Generator/)**.
+>**[Click to test the program now](https://mmejiasgithub.github.io/Random-Pokemon-Team-Generator/)**.
 >
 Developed using Javascript, HTML, and CSS, this program allows users to randomly create their own Pokémon teams with a party of between 1 and 6 Pokémon. 
 - All Pokémon available in this program are from the first generation, meaning there are 151 Pokémon available.
